@@ -1,0 +1,364 @@
+#+TYP_TODO: TODO MAYBE CANCEL WAITING NEXT NOTE DONE
+#+TYP_TODO: EASYﮍ MEDIUM DIFFICULT FUCKYOU COMPLETE!
+#+TYP_TODO: EASY MEDIUM DIFFICULT FUCKYOU COMPLETE
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+TITLE: Pro/g/ramming Challenges v4.0
+* Materials
+** IMAGE [[pp][Programming Challenges list]]
+** HOW-TO Guide
+   1. Git and an external website to push on
+     Learn to use git and commit early and often.
+     Optionally, use a website to push you work to (such as [[GitHub][GitHub]]).
+     The most important things is to build a portfolio
+
+   2. Understand the problem
+
+   3. Implementantion
+
+   4. Test
+
+   5. Re-Implement
+
+   6. Don't stop learning
+
+   7. Resouces
+
+   8. Literature
+
+   9. Hungry for More?
+      
+     
+
+    
+   
+
+* Levels
+** Easy
+***  [[4][Markov Chain Sentence Generator]]
+**** 	(Include Shitposting Capabilities)
+*** [[10][	To-Do List Application]]
+**** 	(Web app or CLI)
+*** [[15][	Chatbot]]
+**** 	(With conversation retention)
+*** [[18][	Image to ASCII Art]]
+*** [[25][	Imageboard	(Imagine vichan)]]
+*** [[35][	Create an HSV Color Representation]]
+*** [[42][	Port Scanner]]
+*** [[43][	Old School Demo Effect (Plasma, Tunner, Scrollers, Zoomers, etc...)]]
+*** [[44][	Fizzbuzz]]
+**** 	(BONUS: In assembly)
+*** [[45][	RPN Calculator]]
+*** [[46][	Counts occurrences of characters in a Given String]]
+**** 	(Inlcude support for unicode character)
+*** [[47][	Tower of Hanoi]]
+*** [[50][	Calculate the first (n) digits of pi]]
+*** [[52][	Given an Array of Stocks's values ofer time, find the period of time where the stocks could have made the most money]]
+*** [[53][	Highest Prime Factor Calculator]]
+*** [[56][	Password Generator]]
+**** 	(Let User Choose Options)
+*** [[59][	Ceasar Cipher Cracker]]
+*** [[61][	ROT 13]]
+*** [[64][	Encrypt/Decrypt Text: Implement at least one from http://rumkin.com/tools/cipher/collection]]
+*** [[65][	Youtube to MP3]]
+*** [[66][	Text to hexadecimal/binary]]
+*** [[68][	Sierpinski Triangle]]
+*** [[74][	Basic Neural Network - Simulate individual neurons and their connections]]
+*** [[96][	Generate a Complimentary Color from any input color]]
+*** [[101][	Eulerian Path]]
+*** [[102][	Draw a spinning 3D Cube]]
+*** [[103][	Cellular Textures]]
+*** [[107][	Snake]]
+*** [[111][	Rock Paper Scissors]]
+*** [[122][	Design a Game Engine in Unity]]
+*** [[123][ Yahtzee]]
+*** [[124][	Oil Panic]]
+*** [[127][ Connect Four]]
+*** [[132][	Simon]]
+*** [[134][	Ulam Spiral]]
+*** [[138][	PDF Tagger]]
+*** [[145][	ASCII Digital Clock]]
+** Medium
+*** [[1][Download Manager]] 
+*** [[2][Make an elastic producer/consumer task queue.]] 
+*** [[3][IRC client]] 
+*** [[5][English Sentence Parser that Points to the Context of a Sentence]] 
+*** [[6][MIDI Player + Editor]] 
+*** [[7][Stock Market Simulator Using Yahoo Spreadsheet Data]] 
+*** [[9][graphic Calculator]] 
+**** 	(B][NUS: Graph the Function's Derivatives)
+*** [[12][TCP/UDP Chat Server + Client]]
+*** [[14][Shazam]]
+*** [[16][Curses Text Editor]]
+**** 	(W][th Emacs/Vim Keybindings)]]
+*** [[17][Paint Clone]]
+*** [[19][Booru (Image Board) Image Downloader]]
+*** [[20][Image Converter]]
+*** [[21][ID3 Reader]]
+*** [[23][C++ IDE plugin for Sublime/Atom]]
+**** 	(A][to-Complete, Go-To Symbol Declaration and Definition using Clang's AST)
+*** [[24][Simple Version Control supporting checkout, commit (with commit messages), unlocking, and per-file configuration of number of revision kept]]
+*** [[26][Password Manager]]
+*** [[29][Key Press bot]]
+*** [[30][IP/URL Obsucrifaction]]
+**** 	(h][tp://www.pc-help.org/obscure.htm)
+*** [[31][Radix Base Converter (Given a radix base, convert it to decimal)]]
+*** [[33][Encrypt a file, and Upload it online]]
+*** [[36][Window Manager]]
+*** [[38][Pixel Editor]]
+*** [[39][Trivial File Transfer Protocol (TFTP): Allow Client to put a file on remote host]]
+*** [[40][Markdown (HTML/XML) Editor]]
+*** [[41][IP Tracking Visualization]]
+*** [[48][Music]] Visualizer
+*** [[49][Unicode Converter]]
+**** 	(S][pport for UTF-8, 16LE, 32LE, and 32BE)
+*** [[51][Least Squares Fitting Algorithm]]
+*** [[54][Hide and Extract Data in images (Basic Steganography)]]
+**** 	(B][NUSL Include .gif support)
+*** [[55][Web Page crawle]]
+*** [[57][Vignere cipher encryption/decryption]]
+*** [[58][Game Of Life]]
+*** [[60][Dijkstra's Algorithm]]
+*** [[62][Porogram that displays MBR Contents]]
+*** [[63][Random Name Picker]]
+*** [[67][Calculate the firts 1k digits of Pi iteratively]]
+*** [[69][Mandlebrot Set]]
+*** [[71][Ai for Rougelikes]]
+*** [[72][Sudoku/n-Puzzle Solver using A* algorithm]]
+*** [[73][Connect-4 AI Player using Aplha-Beta Pruning]]
+*** [[75][Real Neural Network - Implement a basic feed-forward network using matrices for entire layers along with matrix operation for computations.]]
+*** [[76][Convolutional Neural Network: Implement a convolutional N.N. for handwritten digit recognition, test on MNIST dataset (Use TensorFlow, Theano, etc...)]]
+*** [[78][Virtual Machine with Script that Writes "Hello, Word"]]
+*** [[80][Terminal Shell (Executable Binaries, Pipe system, Redirection, and History)]]
+**** 	(BONUS: Make it a GUI)
+*** [[81][HTML + JavaScript Debugger]]
+*** [[82][Write an interpreted LISP-Like programming language]]
+*** [[84][Universal Asynchronous Receiver/Transmitter (UART) Game (In assembly)]]
+*** [[90][Static Website Generator (Scriptable templates + Content -> HTML and CSS)]]
+*** [[91][Chip-8 Emulator]]
+**** 	(Hard Mode: Cached interpreter. Fuck You: Dynamic Recompiler, use dynarec/jit library)
+*** [[92][Double Pendulum Simulation]]
+*** [[93][Constructive Solid Geometry]]
+*** [[97][Generate a 5-Color Scheme from the most dominant tones in any image]]
+*** [[100][N-Body Simulator, with particles having a certain mass and radius depending on the mass that merge if they collide]]
+**** (BONUS: include a GUI where you can place particles)
+*** [[104][Knight's Tour]]
+*** [[106][Tetris]]
+*** [[108][Pipe Dreams]]
+*** [[109][Pac Man, With Different Behaviors for each ghost]]
+*** [[113][Shuffle a Deck of Cards]]
+**** 	(include a visualization)
+*** [[114][Simulate a game of Tag using a multi-agent system]]
+*** [[116][Scorched Earth Clone]]
+*** [[117][Minesweeper]]
+*** [[118][An Adui/Visual 64KB Demonstration]]
+*** [[119][Sudoku]]
+*** [[125][Chess]]
+*** [[128][Mastermind]]
+*** [[129][Missile Command Game]]
+*** [[130][Tron]]
+*** [[131][breakout]]
+*** [[135][Bellman-Ford Simulation with at least Five Vertices]]
+*** [[136][Matrix Arithmetic]]
+*** [[137][File Compression Utility (Make it GUI)]]
+*** [[140][Calculate Dot and Cross Product of Two Vectors]]
+*** [[141][Bismuth Fractal]]
+*** [[142][Seam Carving]]
+*** [[143][Bayesian Filter]]
+
+** Difficult 
+*** [[ 8	Paramentric][Graphic Equalizer to .wab files]]
+*** [[ 11][Verlet integration]]
+**** (Verlet Cloth)
+*** [[ 13][Music Streaming]]
+*** [[ 22][Sound Synthesis (Sine, square, sawtooth, etc...)]]
+*** [[ 27][Create a Torrent Client (CLI or GUI)]]
+*** [[ 28][Booru Client]]
+*** [[ 32][Chan aggregator (Let's user view various boards from different 'chans')]]
+**** (BONUS: Add 4ChanX and Archiving funcionality)
+*** [[ 34][Make a Text Editor that autosaves and includes the data in the filename]]
+*** [[ 70][OpenAI Gym Project]]
+*** [[ 77][Convolutional Neural Network: Implement your own Convolutional Neural Network for handwritten digit recognition, test on MNIST Dataset (Without TensorFlow, Theano, etc...)]]
+*** [[ 83][Make an application that is capable of mounting filesystems from other OSes  using the FUSE model]]
+*** [[ 85][Pong Game as a UEFI file in color]]
+*** [[ 86][Design a Esoteric Language]]
+*** [[ 87][C Compiler]]
+*** [[ 88][Turing machine simulator]]
+*** [[ 89][Read, Evaluate, Print Loop using a compiled language]]
+*** [[ 94][Ray Tracer]]
+*** [[ 95][Real-time fast Fourier Transform Spectrum Visualiser]]
+*** [[ 99][TI-86 Emulator]]
+*** [[ 105][Monster Raising/Breeding Simulator]]
+*** [[ 110][Dragon Quest/Basic RPG Engine]]
+*** [[ 112][First-person Engine in OpenGL (Walking, Looking Around, jumping on obstacles)]]
+*** [[ 115][Wolfenstein Clone (FPS, Twi-dimensionalmap that appears to be 3D)]]
+**** (If you need a starting point, search for bisquit's video about DOOM-like Engines)
+*** [[ 120][Danmaku (Bullet Hell) Engine]]
+*** [[ 121][Rougelike Engine/Dungeon Generator]]
+*** [[ 126][Go (No AI Necessary)]]
+*** [[ 133][LISP Intepreter]]
+*** [[139][Nonogram Generator and solver]]
+*** [[144][WMS viewer that isn't web based]]
+** Fuck You
+*** [[37][Basic Relational Database Software]]
+**** #	(SQL Support, Handle Relationships, Focus on Efficiency)
+*** [[79][Basic Bootloader]]
+**** #	(With extended file system)
+*** [[98][General Lambert's-problem Solver]]
+
+* Categories
+** Practical
+*** MEDIUM Download Manager <<1>>
+*** MEDIUM Make an elastic producer/consumer task queue. <<2>>
+*** MEDIUM IRC client <<3>>
+*** EASY 	Markov Chain Sentence Generator <<4>>
+*** MEDIUM English Sentence Parser that Points to the Context of a Sentence <<5>>
+*** MEDIUM MIDI Player + Editor <<6>>
+*** MEDIUM Stock Market Simulator Using Yahoo Spreadsheet Data <<7>>
+*** DIFFICULT Paramentric/Graphic Equalizer to .wab files <<8>>
+*** MEDIUM graphic Calculator <<9>>
+*** EASY 	To-Do List Application <<10>>
+*** DIFFICULT Verlet integration <<11>>
+*** MEDIUM TCP/UDP Chat Server + Client <<12>>
+*** DIFFICULT Music Streaming <<13>>
+*** MEDIUM Shazam <<14>>
+*** EASY 	Chatbot <<15>>
+*** MEDIUM Curses Text Editor <<16>>
+*** MEDIUM Paint Clone <<17>>
+*** EASY 	Image to ASCII Art <<18>>
+*** MEDIUM Booru (Image Board) Image Downloader <<19>>
+*** MEDIUM Image Converter <<20>>
+*** MEDIUM ID3 Reader <<21>>
+*** DIFFICULT Sound Synthesis (Sine, square, sawtooth, etc...) <<22>>
+*** MEDIUM C++ IDE plugin for Sublime/Atom <<23>>
+*** MEDIUM Simple Version Control supporting checkout, commit (with commit messages), unlocking, and per-file configuration of number of revision kept <<24>>
+*** EASY 	Imageboard	(Imagine vichan) <<25>>
+*** MEDIUM Password Manager <<26>>
+*** DIFFICULT Create a Torrent Client (CLI or GUI) <<27>>
+*** DIFFICULT Booru Client <<28>>
+*** MEDIUM Key Press bot <<29>>
+*** MEDIUM IP/URL Obsucrifaction <<30>>
+*** MEDIUM Radix Base Converter (Given a radix base, convert it to decimal) <<31>>
+*** DIFFICULT Chan aggregator (Let's user view various boards from different 'chans') <<32>>
+*** MEDIUM Encrypt a file, and Upload it online <<33>>
+*** DIFFICULT Make a Text Editor that autosaves and includes the data in the filename <<34>>
+*** EASY 	Create an HSV Color Representation <<35>>
+*** MEDIUM Window Manager <<36>>
+*** FUCKYOU Basic Relational Database Software <<37>>
+*** MEDIUM Pixel Editor <<38>>
+*** MEDIUM Trivial File Transfer Protocol (TFTP): Allow Client to put a file on remote host <<39>>
+*** MEDIUM Markdown (HTML/XML) Editor <<40>>
+*** MEDIUM IP Tracking Visualization <<41>>
+*** EASY 	Port Scanner <<42>>
+*** EASY 	Old School Demo Effect (Plasma, Tunner, Scrollers, Zoomers, etc...) <<43>>
+*** MEDIUM Bellman-Ford Simulation with at least Five Vertices <<135>>
+*** MEDIUM Matrix Arithmetic <<136>>
+*** MEDIUM File Compression Utility (Make it GUI) <<137>>
+*** EASY 	PDF Tagger <<138>>
+*** DIFFICULT Nonogram Generator and solver <<139>>
+*** MEDIUM Calculate Dot and Cross Product of Two Vectors <<140>>
+*** MEDIUM Bismuth Fractal <<141>>
+*** MEDIUM Seam Carving <<142>>
+*** MEDIUM Bayesian Filter <<143>>
+*** DIFFICULT WMS viewer that isn't web based <<144>>
+
+** Algorithmic
+*** EASY  Fizzbuzz <<44>>
+*** EASY 	RPN Calculator <<45>>
+*** EASY 	Counts occurrences of characters in a Given String <<46>>
+*** EASY 	Tower of Hanoi <<47>>
+*** MEDIUM Music Visualizer <<48>>
+*** MEDIUM Unicode Converter <<49>>
+*** EASY 	Calculate the first (n) digits of pi <<50>>
+*** MEDIUM Least Squares Fitting Algorithm <<51>>
+*** EASY 	Given an Array of Stocks's values ofer time, find the period of time where the stocks could have made the most money <<52>>
+*** EASY 	Highest Prime Factor Calculator <<53>>
+*** MEDIUM Hide and Extract Data in images (Basic Steganography) <<54>>
+*** MEDIUM Web Page crawler <<55>>
+*** EASY 	Password Generator <<56>>
+*** MEDIUM Vignere cipher encryption/decryption <<57>>
+*** MEDIUM Game Of Life <<58>>
+*** EASY 	Ceasar Cipher Cracker <<59>>
+*** MEDIUM Dijkstra's Algorithm <<60>>
+*** EASY 	ROT 13 <<61>>
+*** MEDIUM Porogram that displays MBR Contents <<62>>
+*** MEDIUM Random Name Picker <<63>>
+*** EASY 	Encrypt/Decrypt Text: Implement at least one from http://rumkin.com/tools/cipher/collection <<64>>
+*** EASY 	Youtube to MP3 <<65>>
+*** EASY 	Text to hexadecimal/binary <<66>>
+*** MEDIUM Calculate the firts 1k digits of Pi iteratively <<67>>
+*** EASY 	Sierpinski Triangle <<68>>
+*** MEDIUM Mandlebrot Set <<69>>
+*** EASY 	Ulam Spiral <<134>>
+
+** Artifical Intelligence  
+*** DIFFICULT OpenAI Gym Project <<70>>
+*** MEDIUM Ai for Rougelikes <<71>>
+*** MEDIUM Sudoku/n-Puzzle Solver using A* algorithm <<72>>
+*** MEDIUM Connect-4 AI Player using Aplha-Beta Pruning <<73>>
+*** EASY 	Basic Neural Network - Simulate individual neurons and their connections <<74>>
+*** MEDIUM Real Neural Network - Implement a basic feed-forward network using matrices for entire layers along with matrix operation for computations. <<75>>
+*** MEDIUM Convolutional Neural Network: Implement a convolutional N.N. for handwritten digit recognition, test on MNIST dataset (Use TensorFlow, Theano, etc...) <<76>>
+*** DIFFICULT Convolutional Neural Network: Implement your own Convolutional Neural Network for handwritten digit recognition, test on MNIST Dataset (Without TensorFlow, Theano, etc...) <<77>>
+** CompilerDebugger Interpreter
+*** MEDIUM Virtual Machine with Script that Writes "Hello, Word"  <<78>> 
+*** FUCKYOU Basic Bootloader <<79>>
+*** MEDIUM Terminal Shell (Executable Binaries, Pipe system, Redirection, and History) <<80>>
+*** MEDIUM HTML + JavaScript Debugger <<81>>
+*** MEDIUM Write an interpreted LISP-Like programming language <<82>>
+*** DIFFICULT Make an application that is capable of mounting filesystems from other OSes  using the FUSE model <<83>>
+*** MEDIUM Universal Asynchronous Receiver/Transmitter (UART) Game (In assembly) <<84>>
+*** DIFFICULT Pong Game as a UEFI file in color <<85>>
+*** DIFFICULT Design a Esoteric Language <<86>>
+*** DIFFICULT C Compiler <<87>>
+*** DIFFICULT Turing machine simulator <<88>>
+*** DIFFICULT Read, Evaluate, Print Loop using a compiled language <<89>>
+*** MEDIUM Static Website Generator (Scriptable templates + Content -> HTML and CSS) <<90>>
+*** DIFFICULT LISP Intepreter <<133>>
+
+** Emulation/Modeling
+*** MEDIUM Chip-8 Emulator M <<91>>
+*** MEDIUM Double Pendulum Simulation <<92>>
+*** MEDIUM Constructive Solid Geometry <<93>>
+*** DIFFICULT Ray Tracer <<94>>
+*** DIFFICULT Real-time fast Fourier Transform Spectrum Visualiser <<95>>
+*** EASY 	Generate a Complimentary Color from any input color <<96>>
+*** MEDIUM Generate a 5-Color Scheme from the most dominant tones in any image <<97>>
+*** FUCKYOU General Lambert's-problem Solver <<98>>
+*** DIFFICULT TI-86 Emulator <<99>>
+*** MEDIUM N-Body Simulator, with particles having a certain mass and radius depending on the mass that merge if they collide <<100>>
+*** EASY 	Eulerian Path <<101>>
+*** EASY 	Draw a spinning 3D Cube <<102>>
+*** EASY 	Cellular Textures <<103>>
+*** EASY 	ASCII Digital Clock <<145>>
+** Games
+*** MEDIUM Knight's Tour <<104>>
+*** DIFFICULT Monster Raising/Breeding Simulator <<105>>
+*** MEDIUM Tetris <<106>>
+*** EASY 	Snake <<107>>
+*** MEDIUM Pipe Dreams <<108>>
+*** MEDIUM Pac Man, With Different Behaviors for each ghost <<109>>
+*** DIFFICULT Dragon Quest/Basic RPG Engine <<110>>
+*** EASY Rock Paper Scissors <<111>>
+*** DIFFICULT First-person Engine in OpenGL (Walking, Looking Around, jumping on obstacles) <<112>>
+*** MEDIUM Shuffle a Deck of Cards <<113>>
+*** MEDIUM Simulate a game of Tag using a multi-agent system <<114>>
+*** DIFFICULT Wolfenstein Clone (FPS, Twi-dimensionalmap that appears to be 3D) <<115>>
+*** MEDIUM Scorched Earth Clone <<116>>
+*** MEDIUM Minesweeper <<117>>
+*** MEDIUM An Adui/Visual 64KB Demonstration <<118>>
+*** MEDIUM Sudoku <<119>>
+*** DIFFICULT Danmaku (Bullet Hell) Engine <<120>>
+*** DIFFICULT Rougelike Engine/Dungeon Generator <<121>>
+*** EASY Design a Game Engine in Unity <<122>>
+*** EASY  Yahtzee <<123>>
+*** EASY 	Oil Panic <<124>>
+*** MEDIUM Chess <<125>>
+*** DIFFICULT Go (No AI Necessary) <<126>>
+*** EASY  Connect Four <<127>>
+*** MEDIUM Mastermind <<128>>
+*** MEDIUM Missile Command Game <<129>>
+*** MEDIUM Tron <<130>>
+*** MEDIUM breakout <<131>>
+*** EASY 	Simon <<132>>
+    
